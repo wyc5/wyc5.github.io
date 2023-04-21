@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小護理師測試頁面</title>
-    <link>https://wyc5.github.io/</link>
-    <description>Recent content on 小護理師測試頁面</description>
+    <title>小護理師 on 小護理師測試頁面</title>
+    <link>https://wyc5.github.io/tags/%E5%B0%8F%E8%AD%B7%E7%90%86%E5%B8%AB/</link>
+    <description>Recent content in 小護理師 on 小護理師測試頁面</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Apr 2023 10:30:47 +0800</lastBuildDate><atom:link href="https://wyc5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 10:30:47 +0800</lastBuildDate><atom:link href="https://wyc5.github.io/tags/%E5%B0%8F%E8%AD%B7%E7%90%86%E5%B8%AB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>小護理師的第二篇markdown語法測試</title>
       <link>https://wyc5.github.io/blog/second-post/</link>
@@ -27,15 +27,6 @@
 一級標題(最大字體):#接空白鍵 二級標題:##接空白鍵 六級標題(最小的):六個#接空白鍵 字體加粗:在要加粗的字詞前後各加兩個星號**
 斜體:則是在要斜體的字詞前後各加一個*
 有序序列的第一項:打1.接空白鍵 內縮一層有序序列:4個空白鍵接1.接一個空白鍵，接著打要打的內容。 內縮兩層有序序列:8個空白鍵接1.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://wyc5.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://wyc5.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

@@ -2,37 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wyc5.github.io/blog/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/categories/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/tags/markdown%E8%AA%9E%E6%B3%95%E6%B8%AC%E8%A9%A6/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/tags/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/tags/%E5%B0%8F%E8%AD%B7%E7%90%86%E5%B8%AB/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
+  </url><url>
     <loc>https://wyc5.github.io/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/category/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/blog/second-post/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/category/Life/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/categories/%E8%AA%9E%E6%B3%95%E6%B8%AC%E8%A9%A6/</loc>
+    <lastmod>2023-04-21T10:30:47+08:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/recipes/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/blog/test/</loc>
+    <lastmod>2023-04-20T10:30:47+08:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/recipes/classic-lasagna/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/about/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/recipes/easy-pancakes/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/contact/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/category/%E5%BE%A9%E5%81%A5%E9%81%8B%E5%8B%95/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/search/</loc>
+    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
-    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+    <loc>https://wyc5.github.io/tags/game/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/components/</loc>
+    <loc>https://wyc5.github.io/categories/go-language/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/components/graham-cracker-crust/</loc>
+    <loc>https://wyc5.github.io/blog/post-13/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/components/red-berry-dessert-topping/</loc>
+    <loc>https://wyc5.github.io/tags/html/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>https://wyc5.github.io/components/vanilla-custard-filling/</loc>
+    <loc>https://wyc5.github.io/tags/new/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/tags/photos/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://wyc5.github.io/tags/python/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>
