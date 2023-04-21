@@ -6,7 +6,16 @@
     <description>Recent content on 小護理師測試頁面</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 20 Apr 2023 10:30:47 +0800</lastBuildDate><atom:link href="https://wyc5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 10:30:47 +0800</lastBuildDate><atom:link href="https://wyc5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小護理師的第二篇markdown語法測試</title>
+      <link>https://wyc5.github.io/blog/second-post/</link>
+      <pubDate>Fri, 21 Apr 2023 10:30:47 +0800</pubDate>
+      
+      <guid>https://wyc5.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
     <item>
       <title>小護理師的markdown語法測試</title>
       <link>https://wyc5.github.io/blog/test/</link>
