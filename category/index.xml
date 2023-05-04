@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on 靜的樣本頁</title>
+    <link>https://wyc5.github.io/category/</link>
+    <description>Recent content in Category on 靜的樣本頁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://wyc5.github.io/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://wyc5.github.io/category/Life/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wyc5.github.io/category/Life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>復健運動</title>
+      <link>https://wyc5.github.io/category/%E5%BE%A9%E5%81%A5%E9%81%8B%E5%8B%95/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wyc5.github.io/category/%E5%BE%A9%E5%81%A5%E9%81%8B%E5%8B%95/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

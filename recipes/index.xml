@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes on 靜的樣本頁</title>
+    <link>https://wyc5.github.io/recipes/</link>
+    <description>Recent content in Recipes on 靜的樣本頁</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://wyc5.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>走路-英語版(Walk-in English)</title>
+      <link>https://wyc5.github.io/recipes/classic-lasagna/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wyc5.github.io/recipes/classic-lasagna/</guid>
+      <description>Please let us know if you need some help when you want to stand up. </description>
+    </item>
+    
+    <item>
+      <title>墊腳尖(下肢肌力訓練-台語版)</title>
+      <link>https://wyc5.github.io/recipes/easy-pancakes/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wyc5.github.io/recipes/easy-pancakes/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>足踝運動(Ankle pumping)</title>
+      <link>https://wyc5.github.io/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wyc5.github.io/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
